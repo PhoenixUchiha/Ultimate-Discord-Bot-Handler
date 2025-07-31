@@ -32,7 +32,7 @@ Install dependencies and start your bot:
 
 ```bash
 npm install
-npm run start
+npm run dev
 ```
 
 ## 📸 Preview
