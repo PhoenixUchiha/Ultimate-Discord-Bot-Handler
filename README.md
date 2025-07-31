@@ -37,7 +37,8 @@ npm run start
 
 ## 📸 Preview
 
-<h3>Console Output</h3> <p> <img src="image/preview-1.jpg" alt="Preview 1" width="500" height="300" /> <br /> <img src="image/preview-2.jpg" alt="Preview 2" width="500" height="300" /> </p>
+<h3>Console Output</h3> <p> <img src="image/preview-1.png" alt="Preview 1" width="500" height="300" /> <br /> 
+  <img src="image/preview-2.png" alt="Preview 2" width="500" height="300" /> </p>
 
 ## ⭐ Motivation
 --- if you find this project helpful, consider giving it a ⭐ star — it really helps!
