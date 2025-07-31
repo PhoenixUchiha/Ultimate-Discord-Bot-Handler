@@ -1,0 +1,28 @@
+{
+  "name": "beatboxer-discord-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot with slash commands, events, and context menus.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "starter"
+  ],
+  "author": "Phoenix",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "figlet": "^1.7.0",
+    "mongoose": "^8.16.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
